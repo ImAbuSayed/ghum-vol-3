@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghum-vol-3/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ghum, Vol. 3](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghum-vol-3/) |
+| **Get License** | [Commercial Licensing for Ghum, Vol. 3](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghum-vol-3/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কালো চোখের গহীনে তোমার অচেনা এক মায়া
+> রাতের আঁধারে খুঁজেছি আমি শুধু তোমারই ছায়া
+> পাগল করা এই প্রেমেতে হারাই আমি সীমানা
+> উষ্ণ তোমার পরশ পেয়ে ভুলি যে সব ঠিকানা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
